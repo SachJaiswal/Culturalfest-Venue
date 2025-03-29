@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   //title = 'culturalfest';
-  appName:string='FSD SOLUTION';
+  appName:string='VENUE';
 }
